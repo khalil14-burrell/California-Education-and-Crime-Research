@@ -13,7 +13,7 @@ This project analyzes the relationship between crime and education statistics ac
 - Statistical correlation analysis using Python libraries
 - Visualization of findings to illustrate relationships between education and crime rates
 # Dependencies
-- Python 3.x
+- Python
 - Jupyter Notebook
 - Pandas
 - Matplotlib / Seaborn for data visualization
